@@ -1,0 +1,93 @@
+
+Stock
+Symbol: FYY
+Number of shares 222.0
+Purchased price: $333.00
+Current Price: $444.00
+
+Stock
+Current Market Value of FYY is $98,568.00
+
+Stock
+Profit of FYY is $24,642.00
+
+Stock
+Current market value of all stocks is $98,568.00
+
+Stock
+Total profit from all stocks is $24,642.00
+
+Stock
+Symbol: ZYY
+Number of shares 444.0
+Purchased price: $666.00
+Current Price: $999.00
+
+Stock
+Current market value of all stocks is $542,124.00
+
+Stock
+Total profit from all stocks is $344,988.00
+
+Stock
+Profit of ZYY is $147,852.00
+
+Stock
+Total profit from all stocks is $344,988.00
+
+Stock
+Current Market Value of ZYY is $443,556.00
+
+Dividend Stock
+Symbol: DDD
+Number of shares 22.0
+Purchased price: $333.00
+Current Price: $555.00
+Dividends Paid: $44.00
+
+Dividend Stock
+Current Market Value of DDD is $12,254.00
+
+Dividend Stock
+Profit of DDD is $4,884.00
+
+Dividend Stock
+Symbol: DD2
+Number of shares 333.0
+Purchased price: $5,555.00
+Current Price: $7,777.00
+Dividends Paid: $666.00
+
+Dividend Stock
+Current Market Value of DD2 is $2,590,407.00
+
+Dividend Stock
+Profit of DD2 is $739,926.00
+
+Stock
+Current market value of all stocks is $2,602,661.00
+
+Stock
+Total profit from all stocks is $1,489,620.00
+
+MutualFund
+Symbol: MMM
+Share amount: 333.0
+Purchased price: $666.00
+Current Price: $777.00
+
+Stock
+Profit of MMM is $36,963.00
+
+Stock
+Current market value of all stocks is $258,741.00
+
+Stock
+Total profit from all stocks is $36,963.00
+
+Dividend Stock
+Symbol: DD2
+Number of shares 222.0
+Purchased price: $888.00
+Current Price: $999.00
+Dividends Paid: $333.00
